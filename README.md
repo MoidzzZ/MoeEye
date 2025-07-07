@@ -2,4 +2,4 @@
 
 项目数据可以从如下链接获得：https://drive.google.com/file/d/1BCKUC2QANdgBNEnxqKpqvb5gEHAN-e1F/view?usp=sharing
 
-图片仅用于科学研究，无任何商业用途，如有侵权请联系我替换。
+图片仅用于学习与研究，无任何商业用途，如有侵权请联系我替换。
